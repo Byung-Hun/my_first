@@ -2,9 +2,7 @@
   <div class="container">
     <div>
       <Logo />
-      <h1 class="title">
-        first_my_project
-      </h1>
+   
       <div class="links">
       
       </div>
